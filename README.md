@@ -1,4 +1,4 @@
-### [link.ng](https://www.link.ng)
+### Link Naija
 
 Welcome, one and all!
 
