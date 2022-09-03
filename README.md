@@ -1,9 +1,8 @@
-### Link Naija
+### Link Afrik
 
 Welcome, one and all!
 
 This project aims to: 
-* Get **every** Nigerian service provider online
-* Link Nigerian customers to Nigerian services on one free ad-powered web service
+* Get **every** African service provider online
+* Link African customers to African services on one free ad-powered web service
 * Help customers make informed decisions via trustworthy reviews
-* Capitalize on initial success to eventually link Nigerian talent to the world via a different site
